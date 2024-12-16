@@ -1,2 +1,3 @@
-# segmentazione-cellulare-unet
-Segmentazione di nuclei cellulare tramite U-Net
+# Segmentazione cellulare con U-Net
+
+Segmentazione di nuclei cellulari tramite U-Net
